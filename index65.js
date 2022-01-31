@@ -1,4 +1,4 @@
-let balance = 0;
+let balance = 100;
 if (balance > 0){
     console.log(`Your balance is: ${balance}`)
 } else {

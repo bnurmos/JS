@@ -10,6 +10,6 @@ console.log( result);
 let average = 6;
 studentAverage = 4;
 let averageRequired = studentAverage >= average;
-let points = studentAverage - average;
+let points = average - studentAverage;
 console.log(`This student has a greater or equal average required to pass: ${averageRequired}`);
 console.log(`This student is missing ${points} to pass`);

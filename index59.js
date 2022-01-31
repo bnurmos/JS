@@ -1,5 +1,5 @@
 let firstNumber, secondNumber;
-firstNumber = 10;
+firstNumber = 20;
 secondNumber = 15;
 if (firstNumber == secondNumber) {
     console.log("They are the same number")

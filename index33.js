@@ -1,8 +1,8 @@
-let userCount;
+let userCount=100;
 userCount += 5;
-console.log(`Users Count: ${userCount}`);
+console.log(`Users Count:`, userCount);
 userCount -=3;
-console.log(`Users Count: ${userCount}`);
+console.log(`Users Count:`, userCount);
 userCount *=2;
 console.log(`Users Count: ${userCount}`);
 let menCount = userCount / 2;

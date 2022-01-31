@@ -8,7 +8,7 @@ else {
     console.log(`Number ${secondNumber} is bigger than ${firstNumber}`)
 }
 
-///Ex_52
+///Ex_53
 
 let number = 11;
 if (number % 2 == 0) {
@@ -17,7 +17,8 @@ if (number % 2 == 0) {
 else {
     console.log(`${number} is an odd number`) 
 }
-//Ex_53
+
+//Ex_54
 
 let username = "pepe2017";
 let password = 123456;

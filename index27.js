@@ -9,3 +9,8 @@ console.log(`I subtract ${secondNumber} - ${firstNumber} and the result is ${sub
 console.log(`I multiply ${firstNumber} * ${secondNumber} and the result is ${multiplyResult}`);
 console.log(`I divide  ${secondNumber} / ${firstNumber} and the result is ${dividResult}`);
 console.log(`I remain ${secondNumber} - ${firstNumber} and the result is ${remainResult}`);
+
+//Ex_29 
+let length =10;
+let square = length * 4;
+console.log(square);
