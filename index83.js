@@ -17,10 +17,10 @@ do {
 //Ex_84
 
 
-// i=7;
-// step = "*";
-// do {
-//     console.log(step);
-//     step = step +"**"
-//     i--;
-// } while (i>0);
+i=7;
+step = "*";
+do {
+    console.log(step);
+    step = step +"**"
+    i--;
+} while (i>0);
