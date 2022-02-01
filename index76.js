@@ -1,11 +1,11 @@
-// //Ex_66
+// //Ex_76
 let numbers = 0
 do {
     console.log(numbers)
     numbers ++;
 } while (numbers<11);
 
-// //Ex_67
+// //Ex_77
 
 let numbers2 = 0
 do {
@@ -13,8 +13,7 @@ do {
     numbers2 ++;
 } while (numbers2<101);
 
-// Ex_68
-
+// Ex_78
 var i = 0; 
 do { 
    console.log(i); 
