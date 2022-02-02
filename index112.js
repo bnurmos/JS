@@ -9,6 +9,5 @@ function showNumbers(start, end) {
             console.log(i);
         }
     }
-    
 }
-showNumbers("j", "zdfgf");
+showNumbers(100, 10);
